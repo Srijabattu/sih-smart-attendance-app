@@ -1,0 +1,10 @@
+[
+  {"id":"A1","title":"Read 1 chapter (Subject)", "description":"Read one chapter of your current subject textbook. Good for comprehension.", "duration":30, "tags":["reading","academic"]},
+  {"id":"A2","title":"Solve 10 MCQs", "description":"Practice objective questions to improve recall.", "duration":20, "tags":["practice","problem-solving"]},
+  {"id":"A3","title":"Portfolio: Update CV", "description":"Spend focused time polishing your CV/LinkedIn.", "duration":30, "tags":["career","writing"]},
+  {"id":"A4","title":"Micro-course: 15-min video", "description":"Watch a short tutorial related to your interest.", "duration":15, "tags":["video","skill"]},
+  {"id":"A5","title":"Soft-skill exercise", "description":"Practice elevator pitch or communication exercise for 10-15 mins.", "duration":15, "tags":["career","soft-skill"]},
+  {"id":"A6","title":"Explore research paper summary", "description":"Read abstract + key ideas of a research paper for 20 mins.", "duration":20, "tags":["research","reading"]},
+  {"id":"A7","title":"Code Kata", "description":"Solve a small programming challenge.", "duration":25, "tags":["coding","practice"]},
+  {"id":"A8","title":"Mindful Break", "description":"Short breathing/meditation for 10 mins.", "duration":10, "tags":["wellbeing"]}
+]

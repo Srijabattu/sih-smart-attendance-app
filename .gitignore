@@ -1,0 +1,7 @@
+node_modules/ 
+frontend/flutter/ 
+build/ 
+dist/ 
+.env 
+*.log 
+__pycache__/ 
